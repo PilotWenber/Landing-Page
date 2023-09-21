@@ -269,8 +269,7 @@ section{
         backdrop-filter: blur(2px);
         opacity: 1;
         font-size: 11px;
-        
-    -webkit-text-stroke: 0.7px #000;
+        -webkit-text-stroke: 0.7px #000;
     }
 
     .contenedor{
